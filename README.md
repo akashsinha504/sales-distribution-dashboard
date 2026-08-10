@@ -2,9 +2,9 @@
 
 ## 📊 Project Overview
 
-An interactive Sales Distribution Dashboard built in Microsoft Excel to analyze sales performance across different months, regions, countries, customers, and products.
+This project presents an interactive Sales Distribution Dashboard developed in Microsoft Excel to analyze sales performance across customers, products, regions, countries, and time periods.
 
-The dashboard provides a consolidated view of sales KPIs and helps identify sales trends, top-performing customers, high-performing products, and regional distribution.
+The dashboard consolidates key sales metrics into a single interactive view, enabling users to monitor overall performance, compare actual sales against targets, identify top-performing customers and products, and analyze regional sales trends.
 
 ## 🎯 Business Objective
 
@@ -82,7 +82,6 @@ Based on the dashboard:
 |---|---|
 | `Sales_Distribution_Dashboard.xlsx` | Excel dashboard |
 | `Dashboard_Preview.png` | Dashboard preview |
-| `Dataset/Sales_Data.xlsx` | Source dataset |
 
 ## 📚 Skills Demonstrated
 
