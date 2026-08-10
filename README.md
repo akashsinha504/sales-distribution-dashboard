@@ -8,16 +8,18 @@ The dashboard consolidates key sales metrics into a single interactive view, ena
 
 ## 🎯 Business Objective
 
-The objective of this project is to create an interactive dashboard that enables stakeholders to:
+The objective of this project is to provide a centralized view of sales performance that helps business stakeholders monitor results, identify growth opportunities, and detect areas requiring attention.
 
-- Monitor total sales performance
-- Compare monthly target vs actual sales
-- Identify top customers
+The dashboard is designed to support the following business decisions:
+
+- Monitor overall sales performance
+- Compare actual sales against monthly targets
+- Identify high-value customers
 - Identify top-performing products
-- Analyze regional sales distribution
-- Understand weekly sales trends
-- Explore sales performance by country
-
+- Evaluate sales contribution across regions and countries
+- Analyze sales trends over time
+- Identify periods of strong and weak performance
+- 
 ## 🛠️ Tools & Technologies
 
 - Microsoft Excel
@@ -30,15 +32,29 @@ The objective of this project is to create an interactive dashboard that enables
 
 ## 📈 Dashboard Features
 
+The dashboard provides a consolidated view of sales performance through the following analytical components:
+
 ### Key Performance Indicators
 
-- Total Sales
-- Top 3 Customers
-- Top 10 Products
-- Regional Sales Distribution
-- Monthly Target vs Actual Sales
-- Weekly Sales Trend
-- Country-wise Sales Distribution
+- **Total Sales** – Overall sales generated across the dataset
+- **Top 3 Customers** – Customers contributing the highest sales
+- **Top 10 Products** – Best-performing products based on sales
+- **Regional Sales Distribution** – Comparison of sales contribution across regions
+
+### Trend & Performance Analysis
+
+- **Monthly Target vs Actual Sales** – Comparison of actual sales performance against monthly targets
+- **Weekly Sales Trend** – Analysis of sales movement across weeks
+- **Country-wise Sales Distribution** – Geographic view of sales contribution
+
+### Interactive Filters
+
+Users can filter the dashboard using:
+
+- **Month**
+- **Region**
+
+These filters allow users to explore different segments of the sales data dynamically.
 
 ### Interactive Filters
 
